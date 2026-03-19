@@ -12,6 +12,7 @@ Este é o meu espaço de aprendizado no **GitHub**. Atualmente, estou explorando
 ---
 
 ### 🛠️ Minha Caixa de Ferramentas
+
 | Tecnologia | Nível | Objetivo |
 | :--- | :---: | :--- |
 | **Git** | 🌱 Iniciante | Dominar o controle de versão |
